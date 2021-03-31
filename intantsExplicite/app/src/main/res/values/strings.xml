@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">intantsExplicite</string>
+    <string name="enter_your_name_here">Enter Your Name Here</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity3">Activity3</string>
+    <string name="textview">TextView</string>
+</resources>
