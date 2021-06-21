@@ -1,14 +1,14 @@
-package com.example.intantsexplicit;
+package com.example.intentchellange;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class activity2 extends AppCompatActivity {
+public class contectDetails extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_activity2);
+        setContentView(R.layout.activity_contect_details);
     }
 }
